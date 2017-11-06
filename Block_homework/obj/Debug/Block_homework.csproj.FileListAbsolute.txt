@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Block_homework\Block_homework\bin\Debug\Block_homework.exe
+c:\users\user\source\repos\Block_homework\Block_homework\bin\Debug\Block_homework.pdb
+c:\users\user\source\repos\Block_homework\Block_homework\obj\Debug\Block_homework.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Block_homework\Block_homework\obj\Debug\Block_homework.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Block_homework\Block_homework\obj\Debug\Block_homework.exe
+c:\users\user\source\repos\Block_homework\Block_homework\obj\Debug\Block_homework.pdb
